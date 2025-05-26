@@ -1,0 +1,84 @@
+5 123
+Noodles
+Food
+Ramen
+45 45
+
+30 123
+Cellphone
+Gadgets
+Iphone
+9 40000
+
+60 123
+Paint
+Arts
+Acrylic
+27 400
+
+1 119
+Apple Juice
+Food
+sweet
+54 25
+
+10 119
+Tablet
+Gadgets
+Acer
+3 5000
+
+70 119
+Canvas
+Arts
+plain-woven fabric
+8 1125
+
+2 120
+Milk
+Food
+Fresh milk
+44 30
+
+400 120
+Polo Shirt
+Clothing
+Black color
+86 350
+
+3 121
+Fries
+Food
+Cheese flavor
+9 15
+
+200 121
+Pants
+Clothing
+Denim
+74 1000
+
+50 121
+Color Pens
+Arts
+24 colors
+15 500
+
+100 122
+T-shirt
+Clothing
+Cotton fabric
+94 400
+
+80 122
+Crayons
+Arts
+12 colors
+10 85
+
+20 120
+Laptop
+Gadgets
+Predator
+3 60000
+
